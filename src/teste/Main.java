@@ -10,7 +10,7 @@ public class Main {
 		sc.nextLine();
 		String nome = sc.nextLine();
 		System.out.println("Ola mundo " + nome);
-		System.out.println("oila");
+		System.out.println("ola");
 	}
 
 }
